@@ -46,4 +46,3 @@ function transformButton(button) {
     // Reseta a posição do botão "Sim" para sua posição inicial
     resetYesButtonPosition();
   }
-  
